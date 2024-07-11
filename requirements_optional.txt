@@ -1,0 +1,7 @@
+pooch
+datashader
+nibabel
+pyvista
+trame
+trame-vtk
+trame-vuetify

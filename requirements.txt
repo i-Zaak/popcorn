@@ -1,0 +1,7 @@
+numpy
+scipy
+tqdm
+pyopencl
+mako
+fire
+tvb-library
